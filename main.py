@@ -236,3 +236,7 @@ def scalp_signal(pair: str = Query(..., example="BTCUSDT"),
 @app.get("/")
 def root():
     return {"message":"Pro Trader AI v3 - OK"}
+
+@app.get("/openapi.json")
+async def openapi_endpoint():
+    return app.openapi()
