@@ -9,7 +9,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://pro-trader-ai-v3-production.up.railway.app/openapi.json"
+    "url": "https://web-production-87d5b.up.railway.app/"
   },
   "logo_url": "https://pro-trader-ai-v3-production.up.railway.app/static/logo.png",
   "contact_email": "support@traderai.bot",
