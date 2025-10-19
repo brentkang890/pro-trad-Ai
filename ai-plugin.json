@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Pro Trader AI",
+  "name_for_model": "pro_trader_ai",
+  "description_for_human": "AI dengan pengalaman trading 10 tahun. Menganalisis crypto & forex dengan strategi pro dan scalping.",
+  "description_for_model": "Plugin ini memberikan sinyal trading profesional (swing & scalping) menggunakan data live Binance.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://pro-trader-ai-v3-production.up.railway.app/openapi.json"
+  },
+  "logo_url": "https://pro-trader-ai-v3-production.up.railway.app/static/logo.png",
+  "contact_email": "support@traderai.bot",
+  "legal_info_url": "https://pro-trader-ai-v3-production.up.railway.app/legal"
+}
